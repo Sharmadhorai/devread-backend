@@ -20,7 +20,7 @@ DevRead is a cross-platform app built for developers to **search and summarize p
 
 ## ✨ Features
 
-- 📚 5000+ popular developer books
+- 📚 500+ popular developer books
 - 🔍 Smart search with instant filtering
 - 🧠 AI-generated dev-style summaries
 - 🕘 Summary history tracking
