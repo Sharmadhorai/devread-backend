@@ -13,10 +13,7 @@ DevRead is a cross-platform app built for developers to **search and summarize p
 | 🧠 OpenRouter | Free AI API (Cypher model)        |
 | ⚙️ FastAPI     | Python backend for book summary  |
 | 💻 Flutter    | Android/iOS app with dark neon UI |
-| 🌐 React      | (Optional) Web version            |
-| 🔐 Firebase   | Secure login (optional)           |
 
----
 
 ## ✨ Features
 
@@ -25,15 +22,14 @@ DevRead is a cross-platform app built for developers to **search and summarize p
 - 🧠 AI-generated dev-style summaries
 - 🕘 Summary history tracking
 - 🎨 Neon dark mode UI
-- 📦 Works offline via APK
-- 💬 (Coming Soon) Chat-based book assistant
+
 
 ---
 
 ## 🛠️ Local Setup Guide
 
 ### 🔹 Backend (FastAPI)
-```bash
+
 cd backend
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
